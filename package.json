@@ -1,0 +1,33 @@
+{
+  "name": "minterfe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@mui/icons-material": "^5.0.1",
+    "@reduxjs/toolkit": "^1.6.2",
+    "babel-plugin-styled-components": "^1.13.2",
+    "ethers": "^5.4.7",
+    "framer-motion": "^4.1.17",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-particles-js": "^3.5.3",
+    "react-redux": "^7.2.5",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.1",
+    "web3modal": "^1.9.4"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
